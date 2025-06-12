@@ -1,0 +1,1 @@
+🤖 Rohit Negi Chatbot – An AI-powered chatbot built for the GenAI Mini Hackathon by Coder Army. It mimics Rohit Negi’s persona to answer questions, share insights, and interact naturally using cutting-edge LLM.
