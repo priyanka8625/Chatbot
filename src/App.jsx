@@ -92,7 +92,7 @@ function App() {
                 Welcome to Coder Army!
               </h2>
               <p className="text-gray-600 text-sm">
-                Start a conversation with Rohit Sir and get your coding doubts cleared!
+                Namaste coders! 🙏 Main Rohit Negi, Coder Army ka founder. Aaj kya seekhna hai? DSA, JavaScript, React, ya koi project ka doubt? Chalo, ekdum bawaal shuru karte hain! Bolo, kya plan hai? 🚀
               </p>
             </div>
           </div>

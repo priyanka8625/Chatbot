@@ -19,7 +19,7 @@ const Header = () => {
             </div>
             <div>
               <h1 className="text-xl font-bold bg-gradient-to-r from-purple-600 to-indigo-600 bg-clip-text text-transparent">
-                Chat with Rohit Negi
+                Rohit Negi
               </h1>
               <div className="flex items-center space-x-2 text-sm text-gray-500">
                 <Circle className="w-2 h-2 text-green-500 fill-current" />
